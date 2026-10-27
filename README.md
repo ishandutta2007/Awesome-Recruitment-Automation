@@ -66,58 +66,58 @@ The industry exhibits a **hybrid structure: moderately concentrated in the large
 
 *The following open-source recruitment systems, applicant tracking engines, and resume parsers are strictly ranked descending by their GitHub stargazers count.*
 
-1. **[Resume Matcher](https://github.com/srbhr/Resume-Matcher)** [![GitHub stars](https://img.shields.io/github/stars/srbhr/Resume-Matcher?style=social&color=white)](https://github.com/srbhr/Resume-Matcher/stargazers)  
+1. **[Resume Matcher](https://github.com/srbhr/Resume-Matcher)** [![GitHub_Stars](https://img.shields.io/github/stars/srbhr/Resume-Matcher?style=social&color=white)](https://github.com/srbhr/Resume-Matcher/stargazers)  
    *The #1 open-source AI harness for parsing resumes, extracting structured candidate data, and scoring applicant fit against job descriptions locally with 100+ LLMs support; supports semantic vector search and ATS keyword benchmarking.*
 
-2. **[Frappe HR](https://github.com/frappe/hrms)** [![GitHub stars](https://img.shields.io/github/stars/frappe/hrms?style=social&color=white)](https://github.com/frappe/hrms/stargazers)  
+2. **[Frappe HR](https://github.com/frappe/hrms)** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/hrms?style=social&color=white)](https://github.com/frappe/hrms/stargazers)  
    *Comprehensive open-source HR and payroll suite (GPL-3.0) with a dedicated recruitment module featuring job openings, applicant tracking pipelines, automated candidate interview scheduling, and employee onboarding.*
 
-3. **[Ever Gauzy](https://github.com/ever-co/ever-gauzy)** [![GitHub stars](https://img.shields.io/github/stars/ever-co/ever-gauzy?style=social&color=white)](https://github.com/ever-co/ever-gauzy/stargazers)  
+3. **[Ever Gauzy](https://github.com/ever-co/ever-gauzy)** [![GitHub_Stars](https://img.shields.io/github/stars/ever-co/ever-gauzy?style=social&color=white)](https://github.com/ever-co/ever-gauzy/stargazers)  
    *Full-scale open-source business management platform (AGPL-3.0) incorporating an integrated ATS and candidate CRM module; supports candidate stage progression, recruiter task management, and talent pipeline tracking.*
 
-4. **[Horilla](https://github.com/horilla/horilla-hr)** [![GitHub stars](https://img.shields.io/github/stars/horilla/horilla-hr?style=social&color=white)](https://github.com/horilla/horilla-hr/stargazers)  
+4. **[Horilla](https://github.com/horilla/horilla-hr)** [![GitHub_Stars](https://img.shields.io/github/stars/horilla/horilla-hr?style=social&color=white)](https://github.com/horilla/horilla-hr/stargazers)  
    *Modern open-source HRMS (LGPL-2.1) built with Django and PostgreSQL; includes a dedicated recruitment engine with drag-and-drop kanban candidate stages, job posting boards, interview rounds, and candidate evaluation forms.*
 
-5. **[OrangeHRM](https://github.com/orangehrm/orangehrm)** [![GitHub stars](https://img.shields.io/github/stars/orangehrm/orangehrm?style=social&color=white)](https://github.com/orangehrm/orangehrm/stargazers)  
+5. **[OrangeHRM](https://github.com/orangehrm/orangehrm)** [![GitHub_Stars](https://img.shields.io/github/stars/orangehrm/orangehrm?style=social&color=white)](https://github.com/orangehrm/orangehrm/stargazers)  
    *Widely deployed open-source Human Resource Management system (GPL-3.0) with an integrated recruitment and applicant management subsystem for job vacancy tracking, applicant screening, and interview scheduling.*
 
-6. **[OpenCATS](https://github.com/opencats/OpenCATS)** [![GitHub stars](https://img.shields.io/github/stars/opencats/OpenCATS?style=social&color=white)](https://github.com/opencats/OpenCATS/stargazers)  
+6. **[OpenCATS](https://github.com/opencats/OpenCATS)** [![GitHub_Stars](https://img.shields.io/github/stars/opencats/OpenCATS?style=social&color=white)](https://github.com/opencats/OpenCATS/stargazers)  
    *The longest-standing open-source Applicant Tracking System (MPL-2.0) engineered specifically for recruitment agencies and corporate HR teams; features resume parsing, pipeline management, and career portal integration.*
 
-7. **[Nueno](https://github.com/nueno-co/nueno)** [![GitHub stars](https://img.shields.io/github/stars/nueno-co/nueno?style=social&color=white)](https://github.com/nueno-co/nueno/stargazers)  
+7. **[Nueno](https://github.com/nueno-co/nueno)** [![GitHub_Stars](https://img.shields.io/github/stars/nueno-co/nueno?style=social&color=white)](https://github.com/nueno-co/nueno/stargazers)  
    *Modern open-source Applicant Tracking System designed for startups and fast-moving teams with clean candidate pipeline management, interview notes, and candidate collaboration.*
 
-8. **[Smart AI Resume Analyzer](https://github.com/Hunterdii/Smart-AI-Resume-Analyzer)** [![GitHub stars](https://img.shields.io/github/stars/Hunterdii/Smart-AI-Resume-Analyzer?style=social&color=white)](https://github.com/Hunterdii/Smart-AI-Resume-Analyzer/stargazers)  
+8. **[Smart AI Resume Analyzer](https://github.com/Hunterdii/Smart-AI-Resume-Analyzer)** [![GitHub_Stars](https://img.shields.io/github/stars/Hunterdii/Smart-AI-Resume-Analyzer?style=social&color=white)](https://github.com/Hunterdii/Smart-AI-Resume-Analyzer/stargazers)  
    *AI-driven resume parsing and candidate evaluation engine featuring ATS keyword matching, skills extraction, scoring algorithms, and recommendation generation for recruiters.*
 
-9. **[YAWIK](https://github.com/cross-solution/YAWIK)** [![GitHub stars](https://img.shields.io/github/stars/cross-solution/YAWIK?style=social&color=white)](https://github.com/cross-solution/YAWIK/stargazers)  
+9. **[YAWIK](https://github.com/cross-solution/YAWIK)** [![GitHub_Stars](https://img.shields.io/github/stars/cross-solution/YAWIK?style=social&color=white)](https://github.com/cross-solution/YAWIK/stargazers)  
    *Modular open-source applicant tracking system and job board application (MIT); supports multi-organization recruitment pipelines, multilingual job ads, and structured candidate evaluation.*
 
-10. **[Gemini ATS Tracker](https://github.com/praj2408/End-To-End-Resume-ATS-Tracking-LLM-Project-With-Google-Gemini-Pro)** [![GitHub stars](https://img.shields.io/github/stars/praj2408/End-To-End-Resume-ATS-Tracking-LLM-Project-With-Google-Gemini-Pro?style=social&color=white)](https://github.com/praj2408/End-To-End-Resume-ATS-Tracking-LLM-Project-With-Google-Gemini-Pro/stargazers)  
+10. **[Gemini ATS Tracker](https://github.com/praj2408/End-To-End-Resume-ATS-Tracking-LLM-Project-With-Google-Gemini-Pro)** [![GitHub_Stars](https://img.shields.io/github/stars/praj2408/End-To-End-Resume-ATS-Tracking-LLM-Project-With-Google-Gemini-Pro?style=social&color=white)](https://github.com/praj2408/End-To-End-Resume-ATS-Tracking-LLM-Project-With-Google-Gemini-Pro/stargazers)  
     *End-to-end recruitment screening and applicant tracking project powered by Google Gemini Pro; analyzes candidate resumes against job descriptions, identifies skill gaps, and scores applicant fit.*
 
-11. **[Sieve AI](https://github.com/rohitbakoliya/sieve.ai)** [![GitHub stars](https://img.shields.io/github/stars/rohitbakoliya/sieve.ai?style=social&color=white)](https://github.com/rohitbakoliya/sieve.ai/stargazers)  
+11. **[Sieve AI](https://github.com/rohitbakoliya/sieve.ai)** [![GitHub_Stars](https://img.shields.io/github/stars/rohitbakoliya/sieve.ai?style=social&color=white)](https://github.com/rohitbakoliya/sieve.ai/stargazers)  
     *Recruiter-facing AI resume screening platform designed to rapidly evaluate, filter, and score high-volume candidate stacks with NLP models.*
 
-12. **[SpotAxis](https://github.com/Assystant/SpotAxis)** [![GitHub stars](https://img.shields.io/github/stars/Assystant/SpotAxis?style=social&color=white)](https://github.com/Assystant/SpotAxis/stargazers)  
+12. **[SpotAxis](https://github.com/Assystant/SpotAxis)** [![GitHub_Stars](https://img.shields.io/github/stars/Assystant/SpotAxis?style=social&color=white)](https://github.com/Assystant/SpotAxis/stargazers)  
     *Open-source ATS (MIT) providing customizable hiring stages per job requisition, resume parsing, candidate scoring, and multi-tenant recruiter operations.*
 
-13. **[OpenHire](https://github.com/DevSidd2006/OpenHire)** [![GitHub stars](https://img.shields.io/github/stars/DevSidd2006/OpenHire?style=social&color=white)](https://github.com/DevSidd2006/OpenHire/stargazers)  
+13. **[OpenHire](https://github.com/DevSidd2006/OpenHire)** [![GitHub_Stars](https://img.shields.io/github/stars/DevSidd2006/OpenHire?style=social&color=white)](https://github.com/DevSidd2006/OpenHire/stargazers)  
     *AI-powered candidate screening and structured interview platform for high-volume campus hiring; utilizes 12 specialized LLM agents for technical/behavioral evaluation, integrity checking, and bias audits.*
 
-14. **[Niyam](https://github.com/imrohit4077/niyam)** [![GitHub stars](https://img.shields.io/github/stars/imrohit4077/niyam?style=social&color=white)](https://github.com/imrohit4077/niyam/stargazers)  
+14. **[Niyam](https://github.com/imrohit4077/niyam)** [![GitHub_Stars](https://img.shields.io/github/stars/imrohit4077/niyam?style=social&color=white)](https://github.com/imrohit4077/niyam/stargazers)  
     *Modern AI-powered Applicant Tracking System (FastAPI + React 19) positioned as an open alternative to Greenhouse and Lever; includes Celery/Redis asynchronous processing, audit logging, and Docker deployment.*
 
-15. **[TalentFlow AI](https://github.com/Nihal-MN/talentflow-ai)** [![GitHub stars](https://img.shields.io/github/stars/Nihal-MN/talentflow-ai?style=social&color=white)](https://github.com/Nihal-MN/talentflow-ai/stargazers)  
+15. **[TalentFlow AI](https://github.com/Nihal-MN/talentflow-ai)** [![GitHub_Stars](https://img.shields.io/github/stars/Nihal-MN/talentflow-ai?style=social&color=white)](https://github.com/Nihal-MN/talentflow-ai/stargazers)  
     *Open-source AI-native hiring pipeline (AGPL-3.0) featuring structured talent data, explainable candidate matching, semantic search (pgvector), and recruiter-in-the-loop validation with deterministic demo mode.*
 
-16. **[TalentGraph AI](https://github.com/Nihal-MN/talentgraph-ai)** [![GitHub stars](https://img.shields.io/github/stars/Nihal-MN/talentgraph-ai?style=social&color=white)](https://github.com/Nihal-MN/talentgraph-ai/stargazers)  
+16. **[TalentGraph AI](https://github.com/Nihal-MN/talentgraph-ai)** [![GitHub_Stars](https://img.shields.io/github/stars/Nihal-MN/talentgraph-ai?style=social&color=white)](https://github.com/Nihal-MN/talentgraph-ai/stargazers)  
     *Semantic talent search and candidate rediscovery engine utilizing hybrid retrieval (PostgreSQL FTS + pgvector) with Reciprocal Rank Fusion (RRF) and explainable source-quoted match reasoning.*
 
-17. **[HR-OS](https://github.com/rathishreya/hr-os)** [![GitHub stars](https://img.shields.io/github/stars/rathishreya/hr-os?style=social&color=white)](https://github.com/rathishreya/hr-os/stargazers)  
+17. **[HR-OS](https://github.com/rathishreya/hr-os)** [![GitHub_Stars](https://img.shields.io/github/stars/rathishreya/hr-os?style=social&color=white)](https://github.com/rathishreya/hr-os/stargazers)  
     *AI-native hiring operating system (FastAPI + React) with pluggable AI inference (Claude/Ollama), SMTP email outreach, and an integrated Model Context Protocol (MCP) server exposing 10 recruitment tools for autonomous agent workflows.*
 
-18. **[SmartRecruiter](https://github.com/aniGenAI/smartrecruiter)** [![GitHub stars](https://img.shields.io/github/stars/aniGenAI/smartrecruiter?style=social&color=white)](https://github.com/aniGenAI/smartrecruiter/stargazers)  
+18. **[SmartRecruiter](https://github.com/aniGenAI/smartrecruiter)** [![GitHub_Stars](https://img.shields.io/github/stars/aniGenAI/smartrecruiter?style=social&color=white)](https://github.com/aniGenAI/smartrecruiter/stargazers)  
     *Research implementation of a skill-routed multi-agent architecture for resume screening and adaptive technical interviewing; features Qdrant vector storage and dynamic evaluator orchestration.*
 
 ---
@@ -169,7 +169,7 @@ Contributions from talent acquisition leaders, HR engineers, and open-source mai
 
 1. 🍴 **Fork the repository** on GitHub.
 2. 🌿 **Create a dedicated branch**: `git checkout -b feature/add-recruitment-tool`.
-3. 📝 **Add or update entries**: Follow the established tabular format for SaaS (verified specific starting pricing, explicit free tier limits, and valuation/revenue) or list format for open-source (Shields.io star badge with `style=social&color=white` linking to stargazers).
+3. 📝 **Add or update entries**: Follow the established tabular format for SaaS (verified specific starting pricing, explicit free tier limits, and valuation/revenue) or list format for open-source (Shields.io Stars_Badge with `style=social&color=white` linking to stargazers).
 4. ✅ **Ensure accuracy**: Avoid vague placeholders like 'Custom' or 'None'—specify exact trial durations and pricing tiers.
 5. 🚀 **Submit a Pull Request**: Include a brief overview of the tool and links to official documentation.
 
